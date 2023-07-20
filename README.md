@@ -13,8 +13,8 @@ As a research student at the University of Concordia in Montreal, I am delving i
    <img src="maildotru.svg" alt="Email" width="50" height="50">
 </a>
 </center>
-- 📫 How to reach me : damien.martins-gomes@ipsa.fr
-- 
+
+## Languages and Tools:
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 <!---
