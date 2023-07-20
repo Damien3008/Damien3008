@@ -10,7 +10,7 @@ As a research student at the University of Concordia in Montreal, I am delving i
    <img src="linkedin.svg" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="damien.martinsgomes@orange.fr">
-   <img src="maildrotru.svg" alt="Email" width="50" height="50">
+   <img src="maildotru.svg" alt="Email" width="50" height="50">
 </a>
 </center>
 - 📫 How to reach me : damien.martins-gomes@ipsa.fr
