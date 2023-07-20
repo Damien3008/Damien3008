@@ -3,7 +3,9 @@
 <center>
 As a research student at the University of Concordia in Montreal, I am delving into Deep Learning and Computer Vision. This master's is part of a double diploma program with my engineering school in Toulouse, France, where I focus on aerospace telecommunications systems. Fusing aerospace and computer science has been thrilling, and I'm passionate about leveraging AI to shape the future of aerospace telecommunications. #ResearchStudent #DeepLearning #ComputerVision #AerospaceTelecommunications #AIinAerospace #Collaboration
 </center>
+
 ## Connect with me:
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/damien-martins-gomes/)
 
 - 📫 How to reach me : damien.martins-gomes@ipsa.fr
 - 
