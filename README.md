@@ -5,7 +5,9 @@ As a research student at the University of Concordia in Montreal, I am delving i
 </center>
 
 ## Connect with me:
-[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/damien-martins-gomes/)
+<a href="https://www.linkedin.com/in/damien-martins-gomes/">
+   <img src="linkedin.svg" alt="LinkedIn" width="100" height="100">
+</a>
 
 - 📫 How to reach me : damien.martins-gomes@ipsa.fr
 - 
