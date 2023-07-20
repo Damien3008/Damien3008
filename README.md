@@ -5,13 +5,14 @@ As a research student at the University of Concordia in Montreal, I am delving i
 </center>
 
 ## Connect with me:
+<center>
 <a href="https://www.linkedin.com/in/damien-martins-gomes/">
    <img src="linkedin.svg" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="damien.martinsgomes@orange.fr">
-   <img src="chemin/vers/le/logo_email.svg" alt="Email" width="100" height="100">
+   <img src="maildrotru.svg" alt="Email" width="50" height="50">
 </a>
-
+</center>
 - 📫 How to reach me : damien.martins-gomes@ipsa.fr
 - 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
