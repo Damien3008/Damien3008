@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Damien3008
-- 👀 I’m interested in space exploration and programming.
-- 🌱 I’m currently in my first year in engineering school IPSA Toulouse (France) highly specialized in aerospace and aerodynamics fields. During my studies I oriented myself within the aerospace systems major because of my strong attraction for programming.
-- 💞️ I’m looking to collaborate on coding in Python or C++ in order to enhance my skills in programming.
+# Hi, I’m Damien MARTINS GOMES
+
+<center>
+As a research student at the University of Concordia in Montreal, I am delving into Deep Learning and Computer Vision. This master's is part of a double diploma program with my engineering school in Toulouse, France, where I focus on aerospace telecommunications systems. Fusing aerospace and computer science has been thrilling, and I'm passionate about leveraging AI to shape the future of aerospace telecommunications. #ResearchStudent #DeepLearning #ComputerVision #AerospaceTelecommunications #AIinAerospace #Collaboration
+</center>
+## Connect with me:
+
 - 📫 How to reach me : damien.martins-gomes@ipsa.fr
+- 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 <!---
