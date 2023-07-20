@@ -15,7 +15,9 @@ As a research student at the University of Concordia in Montreal, I am delving i
 </center>
 
 ## Languages and Tools:
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+<a href="https://python.land">
+   <img src="python.svg" alt="python" width="30" height="30">
+</a>
 
 <!---
 Damien3008/Damien3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
