@@ -18,7 +18,30 @@ As a research student at the University of Concordia in Montreal, I am delving i
 <a href="https://python.land">
    <img src="python.svg" alt="python" width="30" height="30">
 </a>
-
+<a href="https://isocpp.org">
+   <img src="cplusplus.svg" alt="Cplusplus" width="30" height="30">
+</a>
+<a href="https://https://www.linux.org">
+   <img src="linux.svg" alt="linux" width="30" height="30">
+</a>
+<a href="https://pandas.pydata.org">
+   <img src="pandas.svg" alt="pandas" width="30" height="30">
+</a>
+<a href="https://scipy.org">
+   <img src="scipy.svg" alt="scipy" width="30" height="30">
+</a>
+<a href="https://plotly.com">
+   <img src="plotly.svg" alt="plotly" width="30" height="30">
+</a>
+<a href="https://scikit-learn.org/stable/">
+   <img src="scikitlearn.svg" alt="scikitlearn" width="30" height="30">
+</a>
+<a href="https://www.tensorflow.org">
+   <img src="tensorflow.svg" alt="tensorflow" width="30" height="30">
+</a>
+<a href="https://pytorch.org">
+   <img src="pytorch.svg" alt="pytorch" width="30" height="30">
+</a>
 <!---
 Damien3008/Damien3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
