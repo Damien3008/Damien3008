@@ -1,9 +1,9 @@
 # Hi, I'm Damien MARTINS GOMES
 
 <p align="center">
-  As a dual-degree research student at Concordia University in Montreal and IPSA in Toulouse, I specialize in deep learning, focusing on computer vision and optimization, as well as in aerospace engineering, with a concentration on telecommunications systems. My research is driven by a profound interest in advanced optimization techniques, particularly in the realms of convex and non-convex problems. I am currently developing a second-order optimizer leveraging Fisher Information, supported by the B1X FRQNT award scholarship. This work aims to enhance computational efficiencies and generalization.
+  I'm a dual-degree research student at Concordia University (Montreal) and IPSA (Toulouse), specializing in deep learning and aerospace engineering. My work spans machine learning dynamics, advanced optimization (both convex and non-convex), and telecommunications systems in aerospace. Currently, I'm investigating how neural networks evolve during training and the profound impact that optimizer selection has on their dynamics. My recent work, AdaFisher, was published at ICLR 2025, and my research is supported by the B1X FRQNT award.
   <br><br>
-  🚀 #DeepLearning #Optimization #AerospaceEngineering #InnovativeResearch #AIApplications
+  🚀 #DeepLearning #Optimization #AI4Science #InnovativeResearch #AIApplications
 </p>
 
 ## Connect with me:
@@ -46,8 +46,3 @@
     <img src="images/pytorch.svg" alt="PyTorch" width="30" height="30">
   </a>
 </p>
-
-<!---
-Damien3008/Damien3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
