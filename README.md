@@ -1,48 +1,35 @@
-# Hi, I'm Damien MARTINS GOMES
+```markdown
+# Hi, I'm Damien MARTINS GOMES 👋
 
 <p align="center">
-  I'm a dual-degree research student at Concordia University (Montreal) and IPSA (Toulouse), specializing in deep learning and aerospace engineering. My work spans machine learning dynamics, advanced optimization (both convex and non-convex), and telecommunications systems in aerospace. Currently, I'm investigating how neural networks evolve during training and the profound impact that optimizer selection has on their dynamics. My recent work, AdaFisher, was published at ICLR 2025, and my research is supported by the B1X FRQNT award.
+  <strong>AI Scientist @ Thales Research & Technology</strong><br>
+  Speech & Audio AI · Deep Learning · Signal Processing · Edge AI
+</p>
+
+<p align="center">
+  I build intelligent audio systems that operate under real-world constraints — from research and model development to deployment on embedded and edge devices.
   <br><br>
-  🚀 #DeepLearning #Optimization #AI4Science #InnovativeResearch #AIApplications
+  My current work focuses on <strong>speech enhancement, generative audio, audio foundation models, and efficient deep learning</strong>, with a particular interest in real-time and resource-constrained systems.
+  <br><br>
+  My research background spans deep learning optimization, signal processing, and aerospace engineering. I previously worked at <strong>Mila – Quebec AI Institute</strong>, where I developed <strong>AdaFisher</strong>, a second-order optimizer accepted at <strong>ICLR 2025</strong>.
 </p>
 
-## Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/damien-martins-gomes/">
-    <img src="images/linkedin.svg" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="mailto:damien.martinsgomes@mail.concordia.ca">
-    <img src="images/maildotru.svg" alt="Email" width="50" height="50">
-  </a>
+  🎧 Speech Enhancement &nbsp;·&nbsp;
+  🤖 Generative Audio &nbsp;·&nbsp;
+  ⚡ Edge AI &nbsp;·&nbsp;
+  🧠 Deep Learning &nbsp;·&nbsp;
+  📡 Signal Processing
 </p>
 
-## Languages and Tools:
-<p align="center">
-  <a href="https://python.land">
-    <img src="images/python.svg" alt="Python" width="30" height="30">
-  </a>
-  <a href="https://isocpp.org">
-    <img src="images/cplusplus.svg" alt="C++" width="30" height="30">
-  </a>
-  <a href="https://www.linux.org">
-    <img src="images/linux.svg" alt="Linux" width="30" height="30">
-  </a>
-  <a href="https://pandas.pydata.org">
-    <img src="images/pandas.svg" alt="Pandas" width="30" height="30">
-  </a>
-  <a href="https://scipy.org">
-    <img src="images/scipy.svg" alt="SciPy" width="30" height="30">
-  </a>
-  <a href="https://plotly.com">
-    <img src="images/plotly.svg" alt="Plotly" width="30" height="30">
-  </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img src="images/scikitlearn.svg" alt="Scikit-Learn" width="30" height="30">
-  </a>
-  <a href="https://www.tensorflow.org">
-    <img src="images/tensorflow.svg" alt="TensorFlow" width="30" height="30">
-  </a>
-  <a href="https://pytorch.org">
-    <img src="images/pytorch.svg" alt="PyTorch" width="30" height="30">
-  </a>
-</p>
+---
+
+## 🔬 Research Interests
+
+- **Speech Enhancement** — denoising, dereverberation, intelligibility enhancement
+- **Real-Time & Embedded AI** — lightweight models, low-latency inference, ONNX deployment
+- **Generative Audio** — flow matching, diffusion/flow-based models, audio foundation models
+- **Audio Representation Learning** — spectrogram and waveform modeling
+- **Robust Audio AI** — models operating under challenging acoustic conditions
+- **Deep Learning Optimization** — second-order optimization and neural network dynamics
+- **Multimodal Learning** — combining audio with other modalities
