@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Damien MARTINS GOMES 👋
 
 <p align="center">
